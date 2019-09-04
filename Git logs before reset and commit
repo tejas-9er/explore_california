@@ -1,0 +1,38 @@
+commit cd22be1c3311fe5ce71203f43383c7277b08f981
+Author: Tejas Gandre <tgandre007@gmail.com>
+Date:   Sat Aug 31 19:50:52 2019 -0700
+
+    Revert "Rearrange the items to bring on an outdoor trip"
+    
+    This reverts commit 8f8891d3ebc846cbfc11df4cc533bd35456d2739.
+
+commit 8f8891d3ebc846cbfc11df4cc533bd35456d2739
+Author: Tejas Gandre <tgandre007@gmail.com>
+Date:   Sat Aug 31 19:42:17 2019 -0700
+
+    Rearrange the items to bring on an outdoor trip
+
+commit 1205391efd1105d23758e9a1a213206266b068a1
+Author: Tejas Gandre <tgandre007@gmail.com>
+Date:   Sat Aug 31 16:53:35 2019 -0700
+
+    Removed contractions from contact page text
+
+commit fe764cf31c243efb83e03905f1053d4857509a2e
+Author: Tejas Gandre <tgandre007@gmail.com>
+Date:   Sat Aug 31 16:52:57 2019 -0700
+
+    Renamed backpack cal file got clarity
+
+commit 233cc16a4efedbd74693c4e8c1794576f2d6c28d
+Author: Tejas Gandre <tgandre007@gmail.com>
+Date:   Sat Aug 31 16:31:51 2019 -0700
+
+    Changed 24 hour support number to 4314
+
+commit d6a3adb7ef7a9f6f9d573e58b9b3b0614a700dbd
+Author: Tejas Gandre <tgandre007@gmail.com>
+Date:   Sat Aug 31 16:17:42 2019 -0700
+
+    Iitial commit
+
